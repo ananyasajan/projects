@@ -33,7 +33,7 @@ int main()
     }
 
     if (guessed_number==num)
-        printf("Yayyyyy!!!! The number you guessed_numed is correct :) \n");
+        printf("Yayyyyy!!!! The number you guessed is correct :) \n");
     printf("No. of chances took: %d\n", chance);
     return 0;
 }
